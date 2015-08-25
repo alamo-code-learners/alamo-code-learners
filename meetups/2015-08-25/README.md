@@ -34,15 +34,19 @@ You can exit this mode by typing quit()
 
 2. Running a script directly
 
-    jamal@mjolnir ~ $ cat hello.py
-    print "Hello Python!"
+```bash
+jamal@mjolnir ~ $ cat hello.py
+print "Hello Python!"
 
-    jamal@mjolnir ~ $ python hello.py
-    Hello Python!
+jamal@mjolnir ~ $ python hello.py
+Hello Python!
+```
 
 3. Importing another Python module
 
-    from <module> import <python code>
+```python
+from <module> import <python code>
+```
 
 ### Variables
 
@@ -51,9 +55,11 @@ Variables are a way of organizing and storing information in our programs, you c
 1. Containers that have names
 2. They can hold and represent anything
 
-    >>> secret_of_life = 42
-    >>> secret_of_life / 6
-    7
+```python
+>>> secret_of_life = 42
+>>> secret_of_life / 6
+7
+```
 
 ### Basic Data Types
 
@@ -74,16 +80,20 @@ This can be confusing for beginners, the reason for the two different notations 
 
 1. Assignment - Sets a variable to some value
 
+```python
     x = 8
     pie = "Apple"
+```
 
 2. Equivalence - Are these two things the same?
 
+```python
     x == 8              >> True
     pie == "Apple"      >> True
 
     x == 12             >> False
     pie == "Rhubarb"    >> False
+```
 
 ### Fizz Buzz
 
