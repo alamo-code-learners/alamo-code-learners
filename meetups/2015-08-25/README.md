@@ -3,6 +3,10 @@
 * [:octocat: Github repo](https://github.com/alamo-python-learners/alamo-python-learners)
 * [Meetup](http://www.meetup.com/Alamo-Python-Learners)
 
+## Advanced Challenge
+
+Complete the [Solitare Cypher](http://rubyquiz.com/quiz1.html) in Python using the phrase "Code in Python, live longer!"
+
 ## Getting Started with Python
 
 ### How to see if python is installed on your system
