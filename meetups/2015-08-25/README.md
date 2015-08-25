@@ -1,5 +1,6 @@
 # Alamo Python Learners Meetup - 08/25/2015
 
+* [This document](http://j.mp/apl-2015-08-25): http://j.mp/apl-2015-08-25
 * [:octocat: Github repo](https://github.com/alamo-python-learners/alamo-python-learners)
 * [Meetup](http://www.meetup.com/Alamo-Python-Learners)
 
