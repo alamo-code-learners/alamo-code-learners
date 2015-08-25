@@ -20,7 +20,7 @@ This also tells you which version of Python you are using, there are some signif
 
 If you have Python installed on your system there are 3 main ways to run it.
 
-1. Interactive
+#### Interactive
 
 ```python
 jamal@mjolnir ~ $ python
@@ -32,7 +32,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 You can exit this mode by typing quit()
 
-2. Running a script directly
+#### Running a script directly
 
 ```bash
 jamal@mjolnir ~ $ cat hello.py
@@ -42,7 +42,7 @@ jamal@mjolnir ~ $ python hello.py
 Hello Python!
 ```
 
-3. Importing another Python module
+#### Importing another Python module
 
 ```python
 from <module> import <python code>
@@ -78,14 +78,14 @@ Variables are a way of organizing and storing information in our programs, you c
 Python uses = and == to mean two different things
 This can be confusing for beginners, the reason for the two different notations is that equals can be used to mean two different things.
 
-1. Assignment - Sets a variable to some value
+#### Assignment - Sets a variable to some value
 
 ```python
     x = 8
     pie = "Apple"
 ```
 
-2. Equivalence - Are these two things the same?
+#### Equivalence - Are these two things the same?
 
 ```python
     x == 8              >> True
