@@ -7,8 +7,10 @@
 
 ### How to see if python is installed on your system
 
-    $\> python --version
-    Python 2.7.6
+```bash
+$\> python --version
+Python 2.7.6
+```
 
 ### Python Versions
 
@@ -20,11 +22,13 @@ If you have Python installed on your system there are 3 main ways to run it.
 
 1. Interactive
 
-    jamal@mjolnir ~ $ python
-    Python 2.7.6 (default, Jun 22 2015, 17:58:13)
-    [GCC 4.8.2] on linux2
-    Type "help", "copyright", "credits" or "license" for more information.
-    >>>
+```python
+jamal@mjolnir ~ $ python
+Python 2.7.6 (default, Jun 22 2015, 17:58:13)
+[GCC 4.8.2] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
 
 You can exit this mode by typing quit()
 
