@@ -1,7 +1,7 @@
 # Alamo Python Learners Meetup - 08/25/2015
 
-[Github repo](https://github.com/alamo-python-learners/alamo-python-learners)
-[Meetup](http://www.meetup.com/Alamo-Python-Learners)
+* [:octocat: Github repo](https://github.com/alamo-python-learners/alamo-python-learners)
+* [Meetup](http://www.meetup.com/Alamo-Python-Learners)
 
 ## Getting Started with Python
 
@@ -64,14 +64,14 @@ Variables are a way of organizing and storing information in our programs, you c
 ### Basic Data Types
 
 1. Strings
-..* Hold characters
-..* Enclosed in quotes
+  * Hold characters
+  * Enclosed in quotes
 2. Integers
-..* Whole numbers
+  * Whole numbers
 3. Float
-..* Floating point (decimal like) numbers
+  * Floating point (decimal like) numbers
 4 Boolean
-..* True or False
+  * True or False
 
 ### Equivalence vs. assignment
 
