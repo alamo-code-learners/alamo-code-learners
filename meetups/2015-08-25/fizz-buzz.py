@@ -9,9 +9,25 @@ fizz_output = ""
     2) numbers divisible by 5 are replaced with buzz
     3) numbers divisbile by both 3 and 5 are replaced by fizz buzz"""
 
+split_string = fizz_input.split(" ")
+split_list = []
 
+for number in split_string:
+    this_num = int(number)
 
+    mod_three = (this_num % 3 == 0)
+    mod_five = (this_num % 5 == 0)
 
+    if mod_three and mod_five:
+        split_list.append("fizz buzz")
+    elif mod_three:
+        split_list.append("fizz")
+    elif mod_five:
+        split_list.append("buzz")
+    else:
+        split_list.append(number)
+
+fizz_output = " ".join(split_list)
 
 
 """Test Case to validate the solution"""
