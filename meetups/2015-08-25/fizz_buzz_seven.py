@@ -7,3 +7,4 @@ for num in xrange(1, 101):
         msg += 'Buzz'
 
     print msg or num
+
